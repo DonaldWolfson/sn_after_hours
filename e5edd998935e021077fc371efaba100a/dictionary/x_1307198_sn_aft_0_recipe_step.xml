@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" db_object_id="ca992d58939e021077fc371efaba1037" extends="sys_metadata" label="Recipe Step" max_length="40" name="x_1307198_sn_aft_0_recipe_step" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Dashes" max_length="40" name="dashes" type="integer"/>
+        <element label="Ingredient" max_length="32" name="ingredient" reference="x_1307198_sn_aft_0_ingredient" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Measurement" max_length="40" name="measurement" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Ounces" sequence="0" value="ounces"/>
+                <element inactive_on_update="false" label="Dashes" sequence="1" value="dashes"/>
+                <element inactive_on_update="false" label="Garnish" sequence="2" value="garnish"/>
+            </choice>
+        </element>
+        <element display="true" label="Name" mandatory="true" max_length="100" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Order" mandatory="true" max_length="40" name="order" type="integer"/>
+        <element label="Ounces" max_length="38" name="ounces" type="decimal"/>
+        <element label="Recipe" mandatory="true" max_length="32" name="recipe" reference="x_1307198_sn_aft_0_recipe" type="reference"/>
+        <element label="Short description" max_length="100" name="short_description" type="string"/>
+        <index name="index">
+            <element name="ingredient"/>
+        </index>
+        <index name="index2">
+            <element name="recipe"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" db_object_id="e98e59d8935e021077fc371efaba1007" extends="sys_metadata" label="Recipe" max_length="40" name="x_1307198_sn_aft_0_recipe" type="collection">
+        <element label="Description" max_length="256" name="description" type="string"/>
+        <element label="Ingredients" max_length="32" name="ingredients" read_only="true" reference="x_1307198_sn_aft_0_ingredient" type="glide_list"/>
+        <element display="true" label="Name" mandatory="true" max_length="100" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Ounces" max_length="38" name="ounces" read_only="true" type="decimal"/>
+        <element label="Short description" max_length="100" name="short_description" type="string"/>
+        <element label="Source" max_length="32" name="source" reference="x_1307198_sn_aft_0_source" type="reference"/>
+        <index name="index">
+            <element name="ingredients"/>
+        </index>
+        <index name="index2">
+            <element name="source"/>
+        </index>
+    </element>
+</database>

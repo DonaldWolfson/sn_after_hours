@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" db_object_id="a0ef195c935e021077fc371efaba105e" extends="sys_metadata" label="Ingredient" max_length="40" name="x_1307198_sn_aft_0_ingredient" type="collection">
+        <element label="Description" max_length="256" name="description" type="string"/>
+        <element display="true" label="Name" max_length="100" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Reference" max_length="40" name="reference" type="url"/>
+        <element label="Short description" max_length="100" name="short_description" type="string"/>
+        <element choice="3" default="bar" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Bar" sequence="0" value="bar"/>
+                <element inactive_on_update="false" label="Pantry" sequence="1" value="pantry"/>
+                <element inactive_on_update="false" label="Freezer" sequence="2" value="freezer"/>
+                <element inactive_on_update="false" label="Mixer" sequence="3" value="mixer"/>
+                <element inactive_on_update="false" label="Fridge" sequence="4" value="fridge"/>
+                <element inactive_on_update="false" label="Spice" sequence="5" value="spice"/>
+            </choice>
+        </element>
+    </element>
+</database>

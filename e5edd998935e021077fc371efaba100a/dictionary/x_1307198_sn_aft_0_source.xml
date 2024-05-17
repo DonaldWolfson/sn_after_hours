@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" db_object_id="7790699c935e021077fc371efaba10b2" extends="sys_metadata" label="Source" max_length="40" name="x_1307198_sn_aft_0_source" type="collection">
+        <element label="Link" max_length="40" name="link" type="url"/>
+        <element display="true" label="Name" max_length="100" name="name" type="string"/>
+        <element label="Short description" max_length="100" name="short_description" type="string"/>
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Book" sequence="0" value="book"/>
+                <element inactive_on_update="false" label="Website" sequence="1" value="website"/>
+                <element inactive_on_update="false" label="Magazine" sequence="2" value="magazine"/>
+                <element inactive_on_update="false" label="Blog" sequence="3" value="blog"/>
+                <element inactive_on_update="false" label="App" sequence="4" value="app"/>
+            </choice>
+        </element>
+    </element>
+</database>

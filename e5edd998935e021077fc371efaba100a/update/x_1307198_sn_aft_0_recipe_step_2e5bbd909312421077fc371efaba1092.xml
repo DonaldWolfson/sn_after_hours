@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_1307198_sn_aft_0_recipe_step">
+    <x_1307198_sn_aft_0_recipe_step action="INSERT_OR_UPDATE">
+        <dashes/>
+        <ingredient/>
+        <measurement/>
+        <name>In a mixing glass, combine:</name>
+        <number>STEP0001013</number>
+        <order>0</order>
+        <ounces/>
+        <recipe display_value="Old Fashioned">646ab1509312421077fc371efaba1066</recipe>
+        <short_description/>
+        <sys_class_name>x_1307198_sn_aft_0_recipe_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-17 04:26:44</sys_created_on>
+        <sys_id>2e5bbd909312421077fc371efaba1092</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>In a mixing glass, combine:</sys_name>
+        <sys_package display_value="SN After Hours" source="x_1307198_sn_aft_0">e5edd998935e021077fc371efaba100a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN After Hours">e5edd998935e021077fc371efaba100a</sys_scope>
+        <sys_update_name>x_1307198_sn_aft_0_recipe_step_2e5bbd909312421077fc371efaba1092</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-17 04:26:44</sys_updated_on>
+    </x_1307198_sn_aft_0_recipe_step>
+</record_update>
