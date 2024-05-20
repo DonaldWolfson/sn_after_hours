@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_1307198_sn_aft_0.customer" name="x_1307198_sn_aft_0.customer">61edd998935e021077fc371efaba1043</contains>
+        <role display_value="x_1307198_sn_aft_0.employee" name="x_1307198_sn_aft_0.employee">69edd998935e021077fc371efaba103d</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-20 02:53:39</sys_created_on>
+        <sys_id>61e2c991935a461077fc371efaba108b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1307198_sn_aft_0.customer.x_1307198_sn_aft_0.employee</sys_name>
+        <sys_package display_value="SN After Hours" source="x_1307198_sn_aft_0">e5edd998935e021077fc371efaba100a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN After Hours">e5edd998935e021077fc371efaba100a</sys_scope>
+        <sys_update_name>sys_user_role_contains_61e2c991935a461077fc371efaba108b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-20 02:53:39</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
