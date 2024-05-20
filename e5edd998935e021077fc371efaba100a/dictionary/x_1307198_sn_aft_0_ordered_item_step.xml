@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="85f5c119935a461077fc371efaba1030" extends="task" label="Ordered item step" max_length="40" name="x_1307198_sn_aft_0_ordered_item_step" type="collection">
+    <element db_object_id="85f5c119935a461077fc371efaba1030" extends="task" label="Ordered item step" max_length="40" name="x_1307198_sn_aft_0_ordered_item_step" text_index="true" type="collection">
         <element label="Dashes" max_length="40" name="dashes" type="integer"/>
         <element attributes="encode_utf8=false" label="Ingredient" max_length="32" name="ingredient" reference="x_1307198_sn_aft_0_ingredient" type="reference"/>
         <element attributes="edge_encryption_enabled=true" choice="1" choice_field="measurement" choice_table="x_1307198_sn_aft_0_recipe_step" label="Measurement" max_length="40" name="measurement" type="string">

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="3122dd59939a461077fc371efaba10d4" sys_domain="global" table="x_1307198_sn_aft_0_ordered_item" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-20 04:00:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3922dd59939a461077fc371efaba10d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1307198_sn_aft_0_ordered_item" name="x_1307198_sn_aft_0_ordered_item" sys_domain="global" view="7212d9595c9a46101c24042162787b51">3122dd59939a461077fc371efaba10d4</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1307198_sn_aft_0_ordered_item" sys_domain="global" view="7212d9595c9a46101c24042162787b51">f522dd59939a461077fc371efaba10d7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-20 04:00:18</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-20 04:00:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ca22dd59939a461077fc371efaba10de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1307198_sn_aft_0_ordered_item" name="x_1307198_sn_aft_0_ordered_item" sys_domain="global" view="7212d9595c9a46101c24042162787b51">3122dd59939a461077fc371efaba10d4</sys_ui_form>
+            <sys_ui_section caption="Steps" display_value="Steps" name="x_1307198_sn_aft_0_ordered_item" sys_domain="global" view="7212d9595c9a46101c24042162787b51">8a22dd59939a461077fc371efaba10dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-20 04:00:18</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-20 04:00:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>46221199939a461077fc371efaba101f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1307198_sn_aft_0_ordered_item" name="x_1307198_sn_aft_0_ordered_item" sys_domain="global" view="7212d9595c9a46101c24042162787b51">3122dd59939a461077fc371efaba10d4</sys_ui_form>
+            <sys_ui_section caption="Details" display_value="Details" name="x_1307198_sn_aft_0_ordered_item" sys_domain="global" view="7212d9595c9a46101c24042162787b51">46221199939a461077fc371efaba101e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-20 04:00:18</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1307198_sn_aft_0_ordered_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-20 04:00:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3122dd59939a461077fc371efaba10d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1307198_sn_aft_0_ordered_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SN After Hours" source="x_1307198_sn_aft_0">e5edd998935e021077fc371efaba100a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SN After Hours">e5edd998935e021077fc371efaba100a</sys_scope>
+            <sys_update_name>sys_ui_form_sections_3122dd59939a461077fc371efaba10d4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-20 04:00:18</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace SN After Hours 0" name="workspace-sn-after-hours-0">7212d9595c9a46101c24042162787b51</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
