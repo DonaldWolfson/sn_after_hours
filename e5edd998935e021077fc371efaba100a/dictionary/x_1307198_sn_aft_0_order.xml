@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="aec18d11935a461077fc371efaba1046" extends="task" label="Order" max_length="40" name="x_1307198_sn_aft_0_order" type="collection">
+        <element attributes="encode_utf8=false" label="Customer" mandatory="true" max_length="32" name="customer" reference="sys_user" type="reference"/>
+    </element>
+</database>
