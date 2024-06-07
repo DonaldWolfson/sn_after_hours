@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="DELETE">
+        <app_config display_value="SN After Hours App Config">c312d959639a4610f2bd5bb5ea046d5b</app_config>
+        <description/>
+        <extension_point/>
+        <fields>globalSearchViewConfigId</fields>
+        <icon/>
+        <name>Search</name>
+        <optional_parameters>searchTerm</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>search</route_type>
+        <screen_type display_value="Search">b612d9599f9a4610d50db188521cfa4f</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-20 04:00:08</sys_created_on>
+        <sys_id>f612d959e79a46107102fe16a023464e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search</sys_name>
+        <sys_package display_value="SN After Hours" source="x_1307198_sn_aft_0">e5edd998935e021077fc371efaba100a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN After Hours">e5edd998935e021077fc371efaba100a</sys_scope>
+        <sys_update_name>sys_ux_app_route_f612d959e79a46107102fe16a023464e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-20 04:00:08</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SN After Hours">e5edd998935e021077fc371efaba100a</application>
+        <file_path/>
+        <instance_id>3b4b7791db1a719cebdd2a5913961937</instance_id>
+        <instance_name>dev202902</instance_name>
+        <name>sys_ux_app_route_f612d959e79a46107102fe16a023464e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config display_value="SN After Hours App Config">c312d959639a4610f2bd5bb5ea046d5b</app_config><description/><extension_point/><fields>globalSearchViewConfigId</fields><icon/><name>Search</name><optional_parameters>searchTerm</optional_parameters><order>0</order><parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent><parent_macroponent_composition_element_id/><route_type>search</route_type><screen_type display_value="Search">b612d9599f9a4610d50db188521cfa4f</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-20 04:00:08</sys_created_on><sys_id>f612d959e79a46107102fe16a023464e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Search</sys_name><sys_package display_value="SN After Hours" source="x_1307198_sn_aft_0">e5edd998935e021077fc371efaba100a</sys_package><sys_policy/><sys_scope display_value="SN After Hours">e5edd998935e021077fc371efaba100a</sys_scope><sys_update_name>sys_ux_app_route_f612d959e79a46107102fe16a023464e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-20 04:00:08</sys_updated_on></sys_ux_app_route></record_update>]]></payload>
+        <payload_hash>624908584</payload_hash>
+        <record_name>Search</record_name>
+        <reverted_from/>
+        <source>67a7c5309322021077fc371efaba10c6</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-05-31 00:13:17</sys_created_on>
+        <sys_id>710c4a439362421077fc371efaba108a</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18fcbfe61480000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX App Route</type>
+        <update_guid>310c4a43f7624210eb3ead30f81ccf8a</update_guid>
+        <update_guid_history>310c4a43f7624210eb3ead30f81ccf8a:624908584</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-07 04:58:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_route">sys_ux_app_route</sys_db_object>
+        <sys_id>44d42193723e48b4a49ec7be1d13e979</sys_id>
+        <sys_metadata>f612d959e79a46107102fe16a023464e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search</sys_name>
+        <sys_package display_value="SN After Hours" source="x_1307198_sn_aft_0">e5edd998935e021077fc371efaba100a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SN After Hours">e5edd998935e021077fc371efaba100a</sys_scope>
+        <sys_scope_delete display_value="">476d63d41255410285f72a0f46f5b759</sys_scope_delete>
+        <sys_update_name>sys_ux_app_route_f612d959e79a46107102fe16a023464e</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_route_f612d959e79a46107102fe16a023464e">710c4a439362421077fc371efaba108a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-07 04:58:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
